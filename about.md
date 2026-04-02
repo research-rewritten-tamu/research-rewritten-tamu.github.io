@@ -1,11 +1,16 @@
 ---
 layout: default
-title: About Long Haul
+title: About Research, Re-written
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
+	<h1 class="pageTitle">What is Research, Re-written?</h1>
+	
+	<!-- 
+	
+	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt=""> 
+
+
 	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
 	<h2>Features</h2>
@@ -21,4 +26,6 @@ title: About Long Haul
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
+
+	-->
 </div>
